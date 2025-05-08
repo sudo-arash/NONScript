@@ -5,6 +5,8 @@
 # Suggestions
 1. Add IF and ELSE.
 2. Add FOR with this syntax:
-```for x..y
+```
+for x..y
   x+y
-end```
+end
+```
