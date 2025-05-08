@@ -1,0 +1,3 @@
+[area] = def circle_area(radius, pi)
+    area = pi * radius ^ 2
+end
